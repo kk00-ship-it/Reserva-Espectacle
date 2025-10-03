@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+body{
+    margin-bottom: 130px;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    padding: auto;
+    width: 300px;
+    margin-top: 45px
+}
+
+
+
+
+main{
+    /* border: 1px solid red; */
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Arial;
+}
+
+.conf_reserv , h3{
+    color:  rgba(221, 30, 43);
+    padding-left: 25px;
+}
+
+.conf_reserv{
+    padding-bottom: 45px;
+}
+
+
+.tabla1i2{
+    background-color: rgb(225, 223, 223);
+    width: 100%;
+    font-size: medium;
+    margin-bottom: 20px;
+    margin-top: 20px;  
+}
+
+.columna1,.columna2,.numero_tel{
+    padding-top:15px;
+    padding-left: 25px;
+    padding-bottom:8px;
+    margin-left: 6px;
+    padding-bottom: 15px;  
+}
+
+.columna1{
+    font-weight: 600;
+}
+    
+.columna2{
+    font-weight: 800;
+    padding-right: 80px;
+}
+
+.numero_tel{
+    background-color: white;
+    font-weight: 800;
+}
+
+
+.det_reserv{
+    color: rgba(221, 30, 43);
+    padding-top: 30px;
+    padding-bottom: 25px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+
+h4{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+p{
+    padding-bottom: 40px;
+    font-weight: bold;
+}
+
+
+.tiquet{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-bottom: 40px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+
+
+.QR{
+    width: 100px;
+}
+
+
+.tabla_reserva{
+    width: 100%;
+}
+
+.tabla_reserva th{
+    
+    color: rgba(221, 30, 43);
+    text-align: left;
+    padding-top: 10px;
+}
+
+.th2,.th4{
+    padding-left: 15px;
+
+}
+
+.th3{
+    padding-left: 50px;
+}
+
+
+.tabla_reserva td{
+    font-weight: bold;
+}
+
+.td1,.td2,.td3,.td4{
+    padding-top: 20px;
+}
+
+.td1{
+    text-align: center;
+}
+
+.td2,.td4,.td5{
+    padding-left: 15px;
+}
+
+.td3{
+    padding-left: 50px;
+}
+
+
+.tabla_precios{
+    padding-left: 288px;
+    padding-top: 30px;
+    text-align: right;
+}
+
+.eur1,.eur2{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.gestion,.eur1{
+    padding-bottom: 30px;
+}
+
+.gestion,.total{
+    color: rgba(221, 30, 43) ;
+}
+
+
+
+
