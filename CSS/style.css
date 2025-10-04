@@ -143,7 +143,7 @@ p{
 
 
 .tabla_precios{
-    padding-left: 288px;
+    padding-left: 400px;
     padding-top: 30px;
     text-align: right;
 }
@@ -160,6 +160,7 @@ p{
 .gestion,.total{
     color: rgba(221, 30, 43) ;
 }
+
 
 
 
